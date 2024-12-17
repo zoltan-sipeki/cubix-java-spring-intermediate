@@ -1,0 +1,752 @@
+[
+    {
+        "name": "Dennison Scammonden",
+        "birthdate": "2001-03-24",
+        "semester": 1
+    },
+    {
+        "name": "Lawton Banting",
+        "birthdate": "2004-01-28",
+        "semester": 6
+    },
+    {
+        "name": "Orrin Rizzardi",
+        "birthdate": "2006-10-20",
+        "semester": 6
+    },
+    {
+        "name": "Cloris Suller",
+        "birthdate": "2002-05-02",
+        "semester": 2
+    },
+    {
+        "name": "Fifi Geistmann",
+        "birthdate": "2004-11-18",
+        "semester": 3
+    },
+    {
+        "name": "Athena Cannon",
+        "birthdate": "2001-08-30",
+        "semester": 5
+    },
+    {
+        "name": "Chaunce Anersen",
+        "birthdate": "2004-10-17",
+        "semester": 4
+    },
+    {
+        "name": "Welbie Orro",
+        "birthdate": "2003-06-06",
+        "semester": 5
+    },
+    {
+        "name": "Donovan Kurth",
+        "birthdate": "2005-09-07",
+        "semester": 1
+    },
+    {
+        "name": "Monro Burren",
+        "birthdate": "2004-02-11",
+        "semester": 6
+    },
+    {
+        "name": "Symon Hark",
+        "birthdate": "2003-04-11",
+        "semester": 4
+    },
+    {
+        "name": "Amil Caukill",
+        "birthdate": "2000-02-01",
+        "semester": 3
+    },
+    {
+        "name": "Marji Inskipp",
+        "birthdate": "2003-05-31",
+        "semester": 6
+    },
+    {
+        "name": "Darcey Dommersen",
+        "birthdate": "2004-05-22",
+        "semester": 5
+    },
+    {
+        "name": "Pennie Gimblet",
+        "birthdate": "2001-09-21",
+        "semester": 1
+    },
+    {
+        "name": "Kendell Pavinese",
+        "birthdate": "2000-06-24",
+        "semester": 4
+    },
+    {
+        "name": "Roz Lutsch",
+        "birthdate": "2000-05-22",
+        "semester": 3
+    },
+    {
+        "name": "Roberto Siret",
+        "birthdate": "2001-03-06",
+        "semester": 4
+    },
+    {
+        "name": "Allyn Myderscough",
+        "birthdate": "2002-04-25",
+        "semester": 2
+    },
+    {
+        "name": "Vittorio St Clair",
+        "birthdate": "2005-03-31",
+        "semester": 4
+    },
+    {
+        "name": "Katee Cyphus",
+        "birthdate": "2000-01-28",
+        "semester": 3
+    },
+    {
+        "name": "Caresse St. Quentin",
+        "birthdate": "2000-05-24",
+        "semester": 4
+    },
+    {
+        "name": "Anita Ughini",
+        "birthdate": "2000-02-06",
+        "semester": 6
+    },
+    {
+        "name": "Niki Davenall",
+        "birthdate": "2000-10-09",
+        "semester": 4
+    },
+    {
+        "name": "Elisha Conaghan",
+        "birthdate": "2004-03-15",
+        "semester": 5
+    },
+    {
+        "name": "Jasen Iacopetti",
+        "birthdate": "2006-10-15",
+        "semester": 6
+    },
+    {
+        "name": "Larine Doble",
+        "birthdate": "2003-11-24",
+        "semester": 3
+    },
+    {
+        "name": "Porter Zanuciolii",
+        "birthdate": "2000-09-04",
+        "semester": 3
+    },
+    {
+        "name": "Sibylla Keech",
+        "birthdate": "2005-07-26",
+        "semester": 4
+    },
+    {
+        "name": "Sylvester Ansley",
+        "birthdate": "2001-08-07",
+        "semester": 4
+    },
+    {
+        "name": "Ashby Girdwood",
+        "birthdate": "2005-11-01",
+        "semester": 3
+    },
+    {
+        "name": "Darryl Sandes",
+        "birthdate": "2003-12-09",
+        "semester": 3
+    },
+    {
+        "name": "Winifred Traske",
+        "birthdate": "2006-12-22",
+        "semester": 5
+    },
+    {
+        "name": "Deane Castanyer",
+        "birthdate": "2005-10-04",
+        "semester": 2
+    },
+    {
+        "name": "Ase Burdikin",
+        "birthdate": "2002-06-17",
+        "semester": 3
+    },
+    {
+        "name": "Kienan Baldassi",
+        "birthdate": "2000-07-23",
+        "semester": 5
+    },
+    {
+        "name": "Moira Crowdy",
+        "birthdate": "2002-02-25",
+        "semester": 5
+    },
+    {
+        "name": "Livvy Stapley",
+        "birthdate": "2006-09-18",
+        "semester": 2
+    },
+    {
+        "name": "Hesther Sertin",
+        "birthdate": "2003-03-04",
+        "semester": 5
+    },
+    {
+        "name": "Jonas Bowie",
+        "birthdate": "2005-05-16",
+        "semester": 4
+    },
+    {
+        "name": "Odetta Tebald",
+        "birthdate": "2002-09-18",
+        "semester": 2
+    },
+    {
+        "name": "Rosamund Pendreigh",
+        "birthdate": "2004-02-24",
+        "semester": 6
+    },
+    {
+        "name": "Jo Eggins",
+        "birthdate": "2004-04-30",
+        "semester": 4
+    },
+    {
+        "name": "Braden Friedlos",
+        "birthdate": "2001-08-09",
+        "semester": 1
+    },
+    {
+        "name": "Analise Begin",
+        "birthdate": "2005-07-16",
+        "semester": 4
+    },
+    {
+        "name": "Ulises Winney",
+        "birthdate": "2004-01-13",
+        "semester": 1
+    },
+    {
+        "name": "Geordie GiacobbiniJacob",
+        "birthdate": "2003-08-26",
+        "semester": 2
+    },
+    {
+        "name": "Padget Oley",
+        "birthdate": "2005-10-05",
+        "semester": 3
+    },
+    {
+        "name": "Aguie Langman",
+        "birthdate": "2003-05-21",
+        "semester": 2
+    },
+    {
+        "name": "Feodora Simkovitz",
+        "birthdate": "2006-03-03",
+        "semester": 5
+    },
+    {
+        "name": "Berkly Cakebread",
+        "birthdate": "2002-12-10",
+        "semester": 1
+    },
+    {
+        "name": "Janet Tissell",
+        "birthdate": "2005-07-18",
+        "semester": 6
+    },
+    {
+        "name": "Billie Mc Grath",
+        "birthdate": "2000-09-25",
+        "semester": 5
+    },
+    {
+        "name": "Gene Giovannelli",
+        "birthdate": "2000-01-24",
+        "semester": 6
+    },
+    {
+        "name": "Freida Markwelley",
+        "birthdate": "2000-08-17",
+        "semester": 1
+    },
+    {
+        "name": "Vanya Bento",
+        "birthdate": "2001-10-01",
+        "semester": 4
+    },
+    {
+        "name": "Gilly Pechold",
+        "birthdate": "2006-01-31",
+        "semester": 6
+    },
+    {
+        "name": "Cory O'Regan",
+        "birthdate": "2002-03-15",
+        "semester": 6
+    },
+    {
+        "name": "Doloritas McNelly",
+        "birthdate": "2002-02-13",
+        "semester": 5
+    },
+    {
+        "name": "Karlens McGlade",
+        "birthdate": "2006-03-15",
+        "semester": 2
+    },
+    {
+        "name": "Merrill Thayre",
+        "birthdate": "2006-04-30",
+        "semester": 2
+    },
+    {
+        "name": "Gianna Dovinson",
+        "birthdate": "2005-10-16",
+        "semester": 5
+    },
+    {
+        "name": "Hal Fritschel",
+        "birthdate": "2001-03-29",
+        "semester": 3
+    },
+    {
+        "name": "Nikki Garment",
+        "birthdate": "2002-10-25",
+        "semester": 1
+    },
+    {
+        "name": "Vinson Boltwood",
+        "birthdate": "2006-09-19",
+        "semester": 3
+    },
+    {
+        "name": "Conan Raxworthy",
+        "birthdate": "2000-07-17",
+        "semester": 4
+    },
+    {
+        "name": "Emalia Sheed",
+        "birthdate": "2002-12-28",
+        "semester": 2
+    },
+    {
+        "name": "Rex Walstow",
+        "birthdate": "2002-04-16",
+        "semester": 2
+    },
+    {
+        "name": "Guy Ferentz",
+        "birthdate": "2001-02-14",
+        "semester": 6
+    },
+    {
+        "name": "Grantley Scotsbrook",
+        "birthdate": "2003-08-01",
+        "semester": 4
+    },
+    {
+        "name": "Sheena Loosley",
+        "birthdate": "2001-11-30",
+        "semester": 6
+    },
+    {
+        "name": "Reade Farmer",
+        "birthdate": "2003-06-04",
+        "semester": 4
+    },
+    {
+        "name": "Holly Eastmead",
+        "birthdate": "2003-10-18",
+        "semester": 6
+    },
+    {
+        "name": "Humfried Greest",
+        "birthdate": "2006-08-05",
+        "semester": 1
+    },
+    {
+        "name": "Connie Novkovic",
+        "birthdate": "2006-12-06",
+        "semester": 6
+    },
+    {
+        "name": "Chad Sprake",
+        "birthdate": "2003-09-14",
+        "semester": 3
+    },
+    {
+        "name": "Jareb Skace",
+        "birthdate": "2006-06-25",
+        "semester": 2
+    },
+    {
+        "name": "Conrade Iveson",
+        "birthdate": "2004-02-27",
+        "semester": 2
+    },
+    {
+        "name": "Desmund Stones",
+        "birthdate": "2006-04-27",
+        "semester": 3
+    },
+    {
+        "name": "Celka Beseke",
+        "birthdate": "2002-06-28",
+        "semester": 1
+    },
+    {
+        "name": "Harmon Toomer",
+        "birthdate": "2002-02-06",
+        "semester": 4
+    },
+    {
+        "name": "Corrina Houseago",
+        "birthdate": "2003-11-25",
+        "semester": 2
+    },
+    {
+        "name": "Valdemar Hulstrom",
+        "birthdate": "2005-04-04",
+        "semester": 3
+    },
+    {
+        "name": "Jeffie Sorrie",
+        "birthdate": "2001-06-14",
+        "semester": 3
+    },
+    {
+        "name": "Nonnah Bernardes",
+        "birthdate": "2000-08-24",
+        "semester": 3
+    },
+    {
+        "name": "Marijo Postins",
+        "birthdate": "2002-10-06",
+        "semester": 2
+    },
+    {
+        "name": "Stacy Miere",
+        "birthdate": "2003-12-15",
+        "semester": 1
+    },
+    {
+        "name": "Michel Dallmann",
+        "birthdate": "2006-04-25",
+        "semester": 4
+    },
+    {
+        "name": "Evangelia Flamank",
+        "birthdate": "2002-10-02",
+        "semester": 4
+    },
+    {
+        "name": "Marnia Moughtin",
+        "birthdate": "2005-01-18",
+        "semester": 2
+    },
+    {
+        "name": "Jermaine Cawtheray",
+        "birthdate": "2004-04-06",
+        "semester": 4
+    },
+    {
+        "name": "Amil Latch",
+        "birthdate": "2005-05-04",
+        "semester": 2
+    },
+    {
+        "name": "Peggy Leser",
+        "birthdate": "2004-07-31",
+        "semester": 5
+    },
+    {
+        "name": "Delilah Barks",
+        "birthdate": "2005-09-24",
+        "semester": 2
+    },
+    {
+        "name": "Isobel Gonet",
+        "birthdate": "2000-07-07",
+        "semester": 5
+    },
+    {
+        "name": "Star Gravatt",
+        "birthdate": "2001-12-15",
+        "semester": 1
+    },
+    {
+        "name": "Rudd Nuttey",
+        "birthdate": "2002-04-06",
+        "semester": 1
+    },
+    {
+        "name": "Tirrell Portwain",
+        "birthdate": "2000-01-21",
+        "semester": 6
+    },
+    {
+        "name": "Juditha Kissack",
+        "birthdate": "2004-06-26",
+        "semester": 1
+    },
+    {
+        "name": "Rancell Cavee",
+        "birthdate": "2003-08-10",
+        "semester": 5
+    },
+    {
+        "name": "Ronnie Nolli",
+        "birthdate": "2006-06-25",
+        "semester": 2
+    },
+    {
+        "name": "Nyssa Corten",
+        "birthdate": "2001-04-27",
+        "semester": 5
+    },
+    {
+        "name": "Amalee Kavanagh",
+        "birthdate": "2003-03-24",
+        "semester": 1
+    },
+    {
+        "name": "Francisco Mesnard",
+        "birthdate": "2002-08-20",
+        "semester": 5
+    },
+    {
+        "name": "Gaylor Benes",
+        "birthdate": "2003-02-05",
+        "semester": 6
+    },
+    {
+        "name": "Gaston Lannin",
+        "birthdate": "2004-03-17",
+        "semester": 1
+    },
+    {
+        "name": "Alphonso McGann",
+        "birthdate": "2000-11-23",
+        "semester": 2
+    },
+    {
+        "name": "Bird Royste",
+        "birthdate": "2000-11-03",
+        "semester": 5
+    },
+    {
+        "name": "Myrvyn Readmire",
+        "birthdate": "2004-02-27",
+        "semester": 1
+    },
+    {
+        "name": "Danita Horsey",
+        "birthdate": "2000-09-16",
+        "semester": 5
+    },
+    {
+        "name": "Giulio Moorwood",
+        "birthdate": "2002-08-11",
+        "semester": 6
+    },
+    {
+        "name": "Court Pobjoy",
+        "birthdate": "2001-03-07",
+        "semester": 3
+    },
+    {
+        "name": "Hallsy Gray",
+        "birthdate": "2006-06-09",
+        "semester": 6
+    },
+    {
+        "name": "Willow Riglesford",
+        "birthdate": "2005-03-13",
+        "semester": 5
+    },
+    {
+        "name": "Cord Kebbell",
+        "birthdate": "2002-09-16",
+        "semester": 5
+    },
+    {
+        "name": "Rachel Hawney",
+        "birthdate": "2006-03-14",
+        "semester": 5
+    },
+    {
+        "name": "Alberto Kinnar",
+        "birthdate": "2001-12-29",
+        "semester": 3
+    },
+    {
+        "name": "Samson Stepney",
+        "birthdate": "2002-01-17",
+        "semester": 4
+    },
+    {
+        "name": "Ronnie Gloster",
+        "birthdate": "2002-11-12",
+        "semester": 3
+    },
+    {
+        "name": "Jammal Kleinbaum",
+        "birthdate": "2001-09-11",
+        "semester": 4
+    },
+    {
+        "name": "Alva Houdhury",
+        "birthdate": "2003-05-17",
+        "semester": 4
+    },
+    {
+        "name": "Carlita Carville",
+        "birthdate": "2000-09-11",
+        "semester": 1
+    },
+    {
+        "name": "Loutitia Goodreid",
+        "birthdate": "2006-06-04",
+        "semester": 2
+    },
+    {
+        "name": "Rica Ough",
+        "birthdate": "2006-08-17",
+        "semester": 6
+    },
+    {
+        "name": "Reilly Iacivelli",
+        "birthdate": "2006-07-08",
+        "semester": 4
+    },
+    {
+        "name": "Sylvan Terrelly",
+        "birthdate": "2001-05-16",
+        "semester": 2
+    },
+    {
+        "name": "Cathleen Conen",
+        "birthdate": "2005-03-04",
+        "semester": 2
+    },
+    {
+        "name": "Ginevra Hinnerk",
+        "birthdate": "2004-11-25",
+        "semester": 6
+    },
+    {
+        "name": "Dev McGoldrick",
+        "birthdate": "2006-01-28",
+        "semester": 4
+    },
+    {
+        "name": "Eddy Vizor",
+        "birthdate": "2004-11-11",
+        "semester": 5
+    },
+    {
+        "name": "Edyth Teissier",
+        "birthdate": "2002-12-11",
+        "semester": 3
+    },
+    {
+        "name": "Amandi Christauffour",
+        "birthdate": "2005-09-01",
+        "semester": 1
+    },
+    {
+        "name": "Brynne De Pietri",
+        "birthdate": "2000-07-19",
+        "semester": 3
+    },
+    {
+        "name": "Alane Strathearn",
+        "birthdate": "2000-03-15",
+        "semester": 4
+    },
+    {
+        "name": "Armand Matyashev",
+        "birthdate": "2002-07-08",
+        "semester": 4
+    },
+    {
+        "name": "Babb Ziemen",
+        "birthdate": "2000-03-29",
+        "semester": 2
+    },
+    {
+        "name": "Chas Kellog",
+        "birthdate": "2000-07-26",
+        "semester": 1
+    },
+    {
+        "name": "Cynthy Kryszka",
+        "birthdate": "2000-05-13",
+        "semester": 1
+    },
+    {
+        "name": "Noland Pollington",
+        "birthdate": "2001-11-05",
+        "semester": 5
+    },
+    {
+        "name": "Cal Damsell",
+        "birthdate": "2002-02-13",
+        "semester": 1
+    },
+    {
+        "name": "Vonny Boake",
+        "birthdate": "2006-04-08",
+        "semester": 4
+    },
+    {
+        "name": "Kathrine Barthorpe",
+        "birthdate": "2000-06-08",
+        "semester": 2
+    },
+    {
+        "name": "Corney Ricker",
+        "birthdate": "2003-10-22",
+        "semester": 6
+    },
+    {
+        "name": "Caroljean Castenda",
+        "birthdate": "2004-12-22",
+        "semester": 5
+    },
+    {
+        "name": "Elfreda Mixer",
+        "birthdate": "2003-12-18",
+        "semester": 4
+    },
+    {
+        "name": "Tim Grierson",
+        "birthdate": "2002-02-03",
+        "semester": 3
+    },
+    {
+        "name": "Linc Dominguez",
+        "birthdate": "2006-07-20",
+        "semester": 5
+    },
+    {
+        "name": "Robert Najera",
+        "birthdate": "2000-12-12",
+        "semester": 3
+    },
+    {
+        "name": "Cherrita Haseman",
+        "birthdate": "2002-07-31",
+        "semester": 2
+    },
+    {
+        "name": "Nataniel Lillow",
+        "birthdate": "2004-02-15",
+        "semester": 3
+    }
+]

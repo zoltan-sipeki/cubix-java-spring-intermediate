@@ -1,0 +1,13 @@
+BEGIN;
+
+CREATE TABLE teacher (
+    id INT NOT NULL,
+    name VARCHAR(255) NOT NULL,
+    birthdate DATE NOT NULL,
+
+    CONSTRAINT pk_teacher PRIMARY KEY (id)
+);
+
+CREATE SEQUENCE teacher_seq INCREMENT BY 50 START WITH 1;
+
+COMMIT;
