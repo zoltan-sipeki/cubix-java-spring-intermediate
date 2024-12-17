@@ -4,6 +4,7 @@ import java.util.List;
 import java.util.Optional;
 
 import org.springframework.data.domain.Pageable;
+import org.springframework.data.web.SortDefault;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -34,7 +35,7 @@ public class CourseRESTController {
     }
 
     @GetMapping
-    public List<CourseDto> findCourses(CourseSearchParamsDto searchParams, Pageable pageable, @RequestParam Optional<Boolean> full) {
+    public List<CourseDto> findCourses(CourseSearchParamsDto searchParams, @SortDefault("name") Pageable pageable, @RequestParam Optional<Boolean> full) {
         boolean isFull = full.orElse(false);
         List<Course> courses = null;
 
