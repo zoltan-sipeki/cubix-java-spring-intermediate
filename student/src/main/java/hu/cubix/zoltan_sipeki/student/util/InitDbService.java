@@ -39,6 +39,12 @@ public class InitDbService {
     private CourseStudentRepository courseStudentRepo; 
 
     @Transactional
+    public void init() throws StreamReadException, DatabindException, IOException, Throwable {
+        deleteAll();
+        initAll();
+    }
+
+    @Transactional
     public void deleteAll() {
         courseStudentRepo.deleteAllInBatch();
         courseTeacherRepo.deleteAllInBatch();
@@ -48,7 +54,7 @@ public class InitDbService {
     }
 
     @Transactional
-    public void init() throws StreamReadException, DatabindException, IOException, Throwable {
+    public void initAll() throws StreamReadException, DatabindException, IOException, Throwable {
         var students = testData.loadStudents();
         var courses = testData.loadCourses();
         var teachers = testData.loadTeachers();

@@ -2,6 +2,7 @@ package hu.cubix.zoltan_sipeki.student.util;
 
 import java.io.File;
 import java.io.IOException;
+import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -30,25 +31,22 @@ public class TestDataService {
     private ObjectMapper objectMapper;
     
     public List<Student> loadStudents() throws Throwable, DatabindException, IOException {
-        var file = new File(getClass().getResource(STUDENT_FILE).getFile());
-        var list = new ArrayList<Student>();
-        Collections.addAll(list, objectMapper.readValue(file, Student[].class));
-        return list;
+        return loadJSON(STUDENT_FILE, Student.class);
     }
 
     public List<Teacher> loadTeachers() throws StreamReadException, DatabindException, IOException {
-        var file = new File(getClass().getResource(TEACHER_FILE).getFile());
-        var list = new ArrayList<Teacher>();
-        Collections.addAll(list, objectMapper.readValue(file, Teacher[].class));
-        return list;
-
+        return loadJSON(TEACHER_FILE, Teacher.class);
     }
 
     public List<Course> loadCourses() throws StreamReadException, DatabindException, IOException {
-        var file = new File(getClass().getResource(COURSE_FILE).getFile());
-        var list = new ArrayList<Course>();
-        Collections.addAll(list, objectMapper.readValue(file, Course[].class));
-        return list;
+        return loadJSON(COURSE_FILE, Course.class);
+    }
 
+    @SuppressWarnings("unchecked")
+    public <T> List<T> loadJSON(String path, Class<T> type) throws StreamReadException, DatabindException, IOException {
+        var file = new File(getClass().getResource(path).getFile());
+        var list = new ArrayList<T>();
+        Collections.addAll(list, (T[]) objectMapper.readValue(file, Array.newInstance(type, 0).getClass()));
+        return list;
     }
 }
